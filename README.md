@@ -26,6 +26,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-de-souza-aguiar-1259a9168/)](https://www.linkedin.com/in/igor-de-souza-aguiar-1259a9168/))
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-de-souza-aguiar-1259a9168/)](https://www.linkedin.com/in/igor-de-souza-aguiar-1259a9168/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.dsouza91@gmail.com)](mailto:igor.dsouza91@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21992849165)
