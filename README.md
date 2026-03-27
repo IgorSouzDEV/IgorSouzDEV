@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Estudante na área de desenvolvimento web.
-- 🎓 Bacharelado em Sistemas de Informação no Centro Universitário IBMR | 2º semestre.
+- 🎓 Bacharelado em Sistemas de Informação no Centro Universitário IBMR | 3º semestre.
 - 💼 Em busca de uma primeira oportunidade.
 - 🌱 Foco na área de desenvolvimento front-end.
 
